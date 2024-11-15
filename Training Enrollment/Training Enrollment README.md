@@ -2,7 +2,7 @@ Title: Training Enrollment
 
 Visual: 
 
-![image](https://github.com/user-attachments/assets/d2c56d0e-3d5f-46d1-8ac1-d1351ee90cf1)
+![image](https://github.com/user-attachments/assets/19da2d44-9f08-4e92-802a-53a22747e179)
 
 The dashboard provides insights into training enrollment and attendance data.
 The dashboard includes filters for training model, job level, team, and gender.
