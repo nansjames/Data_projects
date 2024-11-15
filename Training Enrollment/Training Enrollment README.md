@@ -1,4 +1,8 @@
-Overall:
+Title: Training Enrollment
+
+Visual: ![image](https://github.com/user-attachments/assets/354a6a52-4539-4af1-a635-7dc4f77b762f)
+
+
 
 The dashboard provides insights into training enrollment and attendance data.
 The dashboard includes filters for training model, job level, team, and gender.
@@ -15,6 +19,7 @@ Team Wise: Team 1 has the highest attendance rate, while Team 3 has the lowest a
 Manager Wise: Wade has the highest attendance rate, while Dan has the lowest attendance rate.
 Gender Wise: Females have a higher attendance rate than males.
 Level Wise: Analysts have the highest attendance rate, while Team Leaders have the lowest attendance rate.
+
 Additional Insights:
 
 The dashboard is easy to use and navigate.
