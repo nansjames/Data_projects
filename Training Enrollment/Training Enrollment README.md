@@ -1,6 +1,8 @@
 Title: Training Enrollment
 
-Visual: ![image](https://github.com/user-attachments/assets/354a6a52-4539-4af1-a635-7dc4f77b762f)
+Visual: 
+
+![image](https://github.com/user-attachments/assets/354a6a52-4539-4af1-a635-7dc4f77b762f)
 
 
 
