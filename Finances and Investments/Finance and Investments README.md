@@ -1,6 +1,8 @@
 Title: Personal Finance Analysis
 Visual:
 ![image](https://github.com/user-attachments/assets/caaeb91a-8e8b-42cd-bbed-49a2b187e22d)
+![image](https://github.com/user-attachments/assets/21ca304f-07f0-4aff-9d4f-7f598e9b860a)
+![image](https://github.com/user-attachments/assets/8943d1b9-78e4-406d-af2c-6987ecde7c1b)
 
 Description: 
 Somme des crédits et débits par mois :
